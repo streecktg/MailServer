@@ -1,0 +1,3 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtpeO+JboXepHcPKSLmE32TdZnnSpoCx/gPE0lFTYy5ZAyYX6zHuRj5sZDbLVwA+r56D8JuCDxgua/OJEShf/dJBulAHRGghv8HLN8FnqtQEutkpZQytbmMeaIS4Fvs0bcKD7q/M+0MJqQcy9UUXapB+A0Tk9J3TJ5OYKb23lot4aBhOhWgJoe4iO/vZ7oFL8FF84s11KfrIaM1"
+	  "eYqgYoJIkmHIeWVxydn6hJuP+RyAaSrlTPO10JoS2Nf4lYRWu1KJ0im24s+PkUcpzQ4gJLTO9kYNB083dAPTAMuM/ipco08aind9MWBE1cP7qeBdwJgS33jvARG/2HFHOeoBKaNwIDAQAB" )  ; ----- DKIM key mail for streeck.us
